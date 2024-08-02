@@ -1,0 +1,13 @@
+.custom-heading {
+    color: #4a90e2; /* Shade of bluish color */
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-style: italic; /* Slightly italicized */
+}
+.horizontal-line {
+    border-top: 2px solid #003366; /* Dark bluish color */
+}
+.w-33{
+    width: 33%;
+}
